@@ -1,0 +1,22 @@
+
+ HOW TO USE
+
+1.Extract the zip file to the your desired location where you want this application to run from
+2. Application contain two folders  1. server 2.client
+   
+   
+ a.For Server
+   
+1. install node latest version (used 6.11.4)
+2. run npm install (it will install all the dependencies using package.json including express , gulp and babel).
+3. In node prompt command console start server using npm start, since have used gulp to bundle inside the 'dist' folder, it will be something like   E:\WHITEBOARD\SERVER\DIST>NPM START
+4. if any errors are not there  command prompt will display message ,in which port application is running. (now specified 8084, please change if any applicationis already running on this port).
+
+b. For Client
+
+1. Install angular cli, I have used Angular 5 for this application.
+2. run npm install (it will install all the dependencies from package.json).
+3. serve the application using ng serve command.
+
+
+
