@@ -1,0 +1,22 @@
+<div class="container">
+  <p> welcome User!
+    </p>
+    <div>
+      <p>Draw something ! </p>
+      <canvas #whiteboard id="whiteboard" width="800" height="400" class="whiteboard" ></canvas>
+   
+      <div class="whiteboard1" >
+          <div class="whiteboard2">
+              <h3> Click on shapes to draw</h3>
+            <div>
+      <div id="line" (click)="shape($event)"> Line</div>
+      <div id="circle"  (click)="shape($event)">Circle</div>
+      <div id="rectangle"  (click)="shape($event)">Rectangle</div>
+      <div id="sqaure"  (click)="shape($event)">Square</div>
+      </div>
+    </div>
+</div>
+
+
+
+

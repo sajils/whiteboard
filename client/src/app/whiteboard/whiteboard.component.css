@@ -1,0 +1,12 @@
+
+.whiteboard{
+    position:absolute;top:10%;left:10%;border:2px solid;
+}
+.whiteboard1{
+    position:absolute;top:12%;left:74%;
+    text-decoration: underline;
+}
+.whiteboard2{
+    top:12%;left:74%;
+    margin-top: -19px;
+}
