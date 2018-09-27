@@ -1,5 +1,5 @@
 
- HOW TO USE
+ HOW TO SET UP IN LOCAL MACHINE
 
  Application contain two folders  1. server 2.client
    
@@ -15,7 +15,7 @@ b. For Client
 
 1. Install angular cli, I have used Angular 5 for this application.
 2. run npm install (it will install all the dependencies from package.json).
-3. serve the application using ng serve command.
+3. Start the application using ng serve command.
 
 
 
