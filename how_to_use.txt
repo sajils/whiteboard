@@ -1,8 +1,7 @@
 
  HOW TO USE
 
-1.Extract the zip file to the your desired location where you want this application to run from
-2. Application contain two folders  1. server 2.client
+ Application contain two folders  1. server 2.client
    
    
  a.For Server
